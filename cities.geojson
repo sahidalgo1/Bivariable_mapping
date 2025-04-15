@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "UIDENT": 169707, "NAME": "León", "POPCLASS": 4, "CAPITAL": -1, "STATEABB": "MX-GUA", "COUNTRY": "MEX", "EDIT": "NEW", "EDIT_DATE": "20040000" }, "geometry": { "type": "Point", "coordinates": [ -101.653282138408798, 21.125826551848625 ] } },
+{ "type": "Feature", "properties": { "UIDENT": 170907, "NAME": "Guadalajara", "POPCLASS": 4, "CAPITAL": 1, "STATEABB": "MX-JAL", "COUNTRY": "MEX", "EDIT": "NEW", "EDIT_DATE": "20040000" }, "geometry": { "type": "Point", "coordinates": [ -103.336963658475625, 20.627106219384146 ] } }
+]
+}
